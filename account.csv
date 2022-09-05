@@ -1,0 +1,11 @@
+Account_ID,Account_Name,Account_Size,Account_Duration,Account_Budget,Status
+1,Shubham,10,30,100000,Active
+2,Atharwa,20,60,200000,Inactive
+3,Tushar,15,40,500000,Inactive
+4,Prasad,20,50,200000,Active
+5,Gaurav,10,90,400000,Active
+6,Sanyukta,30,60,800000,Inactive
+7,Dhananjay,18,20,100000,Active
+8,Sumedh,12,50,100000,Inactive
+9,Shreya,25,90,600000,Active
+10,Niraj,40,65,400000,Active
